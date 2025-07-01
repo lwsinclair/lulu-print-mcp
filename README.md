@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devlimelabs-lulu-print-mcp-badge.png)](https://mseep.ai/app/devlimelabs-lulu-print-mcp)
+
 # Lulu Print MCP Server
 
 A Model Context Protocol (MCP) server that provides integration with Lulu Print API for print-on-demand services through Claude Desktop and other MCP clients.
